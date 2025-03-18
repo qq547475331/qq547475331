@@ -22,5 +22,5 @@ Kubernetes：K8s 集群的搭建与管理、容器编排与调度
 GitHub：https://github.com/qq547475331
 感谢您的访问，希望您能在这里找到有价值的信息，一起学习与成长！
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qq547475331&show_icons=true&theme=radical)
 
